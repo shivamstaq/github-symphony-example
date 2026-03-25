@@ -1,0 +1,11 @@
+{
+  "name": "github-symphony-example",
+  "version": "1.0.0",
+  "description": "Integration testing repository for the Symphony orchestrator",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
